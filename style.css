@@ -1,0 +1,12 @@
+.box{
+    border: 3px solid purple;
+    height: 400px;
+    width: 350px;
+    margin:100px auto;
+    text-align: center;
+    background-color: azure;
+}
+
+.box h3{
+    color: blue;
+}
